@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+<div id="text"></div>
+
+<script>
+document.getElementById("text").innerHTML = "Text added by JavaScript code";
+</script>
