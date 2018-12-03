@@ -54,7 +54,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
       xmlHttp.onreadystatechange = function() { 
           if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
               if(xmlHttp.responseText.test("dec")
-                console.log(true);
+                console.log("true");
               //callback(xmlHttp.responseText);
       }
       xmlHttp.open("GET", theUrl, true); // true for asynchronous 
