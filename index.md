@@ -53,7 +53,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
       var xmlHttp = new XMLHttpRequest();
       xmlHttp.onreadystatechange = function() { 
           if (xmlHttp.readyState == 4 && xmlHttp.status == 200){
-              if(xmlHttp.responseText.test("dec"){
+              if(xmlHttp.responseText.test("dec")){
                   console.log("true");
               }
            }
