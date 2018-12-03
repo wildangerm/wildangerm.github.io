@@ -41,5 +41,23 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <div id="text"></div>
 
 <script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code";
+  function jsInsert(response){
+    var div = document.createElement('div');
+    div.innerHTML = response;
+    //if(response.co
+    document.getElementById("text").innerHTML = "Text added by JavaScript code";
+  }
+  
+  function httpGetAsync(theUrl, callback)
+  {
+      var xmlHttp = new XMLHttpRequest();
+      xmlHttp.onreadystatechange = function() { 
+          if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+              if(xmlHttp.responseText.test("dec")
+                console.log(true);
+              //callback(xmlHttp.responseText);
+      }
+      xmlHttp.open("GET", theUrl, true); // true for asynchronous 
+      xmlHttp.send(null);
+  }
 </script>
