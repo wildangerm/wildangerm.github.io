@@ -9,3 +9,5 @@ Also I have two more projects planned in keywords:
  - Android, GoPro, stream, Twitch
 
 I'm highly interested in the field of IT security, so I might do projects around it as well, but not sure what exactly yet.
+
+If somehow you would need latex styling (listings definitions) for Xtext and Xtend codes, check my [gists](https://gist.github.com/wildangerm) page out.
