@@ -6,7 +6,7 @@ You can find the projects that I'm currently working on:
  
 Also I have two more projects planned in keywords:
  - Spring-boot webapp, Java, MySQL, Thymeleaf, Google OAuth, minimal Vanilla JS
- - Android, GoPro, stream, Twitch
+ - Android, GoPro, stream, Twitch - Already WIP, but still in early phase (and local)
 
 I'm highly interested in the field of IT security, so I might do projects around it as well, but not sure what exactly yet.
 
