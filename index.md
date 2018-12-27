@@ -12,9 +12,12 @@
 #### Planned projects (in keywords):
  - Spring-boot webapp, Java, MySQL, Thymeleaf, Google OAuth, minimal Vanilla JS
  
+ ---
 
 ### Interests:
 I'm highly interested in the field of IT security, so I might do projects around it as well, but not sure what exactly yet.
+
+---
 
 ### Other:
 #### LaTeX stylings:
