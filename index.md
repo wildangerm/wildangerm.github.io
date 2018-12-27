@@ -5,8 +5,12 @@ You can find the projects that I'm currently working on:
  - [Advent of Code in Kotlin](https://github.com/wildangerm/advent-of-code-2k18-kt)
  
 Also I have two more projects planned in keywords:
+ - **WIP** Android, GoPro, stream, Twitch:
+     - still in early phase (and local).
+     - Core functionality working.
+     - **Soon on GitHub!**
  - Spring-boot webapp, Java, MySQL, Thymeleaf, Google OAuth, minimal Vanilla JS
- - Android, GoPro, stream, Twitch - Already **WIP**, but still in early phase (and local)
+ 
 
 I'm highly interested in the field of IT security, so I might do projects around it as well, but not sure what exactly yet.
 
