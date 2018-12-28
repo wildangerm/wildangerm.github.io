@@ -5,9 +5,9 @@
  - [Advent of Code in Java](https://github.com/wildangerm/advent-of-code-2k18)
  - [Advent of Code in Kotlin](https://github.com/wildangerm/advent-of-code-2k18-kt)
  - Android, GoPro, stream, Twitch:
-     - Still in early phase (and local).
+     - Still in early phase.
      - Core functionality working.
-     - **Soon on GitHub!**
+     - **Soon public on GitHub!**
  
 #### Planned projects (in keywords):
  - Spring-boot webapp, Java, MySQL, Thymeleaf, Google OAuth, minimal Vanilla JS
