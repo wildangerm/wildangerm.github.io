@@ -1,3 +1,8 @@
+<head>
+    <link rel="icon"  type="image/png"    href="images/favicon.png">
+</head>
+
+
 ## Welcome to my GitHub Pages
 
 ### Projects:
