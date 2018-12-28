@@ -20,7 +20,7 @@ I'm highly interested in the field of IT security, so I might do projects around
 ---
 
 ### Other:
-#### (<img style="vertical-align:-5px" src="images/1280px-LaTeX_logo.svg.png" alt="drawing" height="20"/>) stylings:
+#### (<img style="vertical-align:-5px" src="images/1280px-LaTeX_logo.svg.png" alt="drawing" height="25"/>) stylings:
 If somehow you would need LaTeX stylings (listings definitions) for `Xtext` and `Xtend` codes, check my [gists](https://gist.github.com/wildangerm) page out.
 
 
