@@ -1,6 +1,7 @@
 ---
 title:  "Welcome to Jekyll!"
 layout: post
+author: wildangerm
 ---
 
 # Welcome
