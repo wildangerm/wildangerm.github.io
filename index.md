@@ -16,7 +16,7 @@
  ---
 
 ### Interests:
-I'm highly interested in the field of IT security, so I might do projects around it as well, but not sure what exactly yet.
+I'm highly interested in the field of IT security, so I might do projects around it as well, but not sure what exactly yet.  
 `Update:` I've "won" in Avatao's holiday challenge, so now I have 1 month of premium there. I'll make sure to make the most out of it, but I'm not sure how well it can be shared here.
 
 ---
