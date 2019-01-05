@@ -1,5 +1,5 @@
 
-## Welcome to my GitHub Pages
+## Welcome to my page
 
 ### Projects:
 #### I'm currently working on:
