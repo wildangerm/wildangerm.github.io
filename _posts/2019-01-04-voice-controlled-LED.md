@@ -4,7 +4,8 @@ layout: post
 author: wildangerm
 ---
 
-# Welcome
+# Voice controlled LED strip using Galaxy S5 and Amazon Echo Dot (Alexa)
+
 
 **Hello world**, this is my first Jekyll blog post.
 
