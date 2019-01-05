@@ -1,7 +1,3 @@
-<head>
-    <link rel="shortcut icon"  type="image/png"    href="images/favicon.png">
-</head>
-
 
 ## Welcome to my GitHub Pages
 
