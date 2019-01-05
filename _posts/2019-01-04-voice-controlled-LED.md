@@ -4,7 +4,7 @@ layout: post
 author: wildangerm
 ---
 
-# Voice controlled LED strip using Galaxy S5 and Amazon Echo Dot (Alexa)
+# [TUTORIAL] Voice controlled LED strip using Galaxy S5 and Amazon Echo Dot (Alexa)
 
 What you'll need:
  + LED strip (which is controllable via IR)
