@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Voice controlled LED with Alexa"
 layout: post
 author: wildangerm
 ---
