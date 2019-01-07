@@ -14,7 +14,8 @@
  - Spring-boot webapp, Java, MySQL, Thymeleaf, Google OAuth, minimal Vanilla JS
  
 #### Upcoming tutorial:
- - Voice controlled LED 
+ - Voice controlled LED
+ 
  ---
 
 ### Interests:
