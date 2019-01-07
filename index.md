@@ -13,6 +13,8 @@
 #### Planned projects (in keywords):
  - Spring-boot webapp, Java, MySQL, Thymeleaf, Google OAuth, minimal Vanilla JS
  
+#### Upcoming tutorial:
+ - Voice controlled LED 
  ---
 
 ### Interests:
