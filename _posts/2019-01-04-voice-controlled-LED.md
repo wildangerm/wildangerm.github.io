@@ -29,13 +29,21 @@ But when I managed to get my hands on an Alexa device, a new idea came to my min
 ## Setting up
 
 1. Install Termux on your phone from the Google Play Store link provided earlier.
+
 2. Install ngrok in Termux. I won't write a tutorial for this, since a number of them already exist, so I'll link the [first](https://steemit.com/utopian-io/@faisalamin/how-to-download-install-ngrok-in-android-termux-also-work-for-non-rooted-devices) written one I found, but you may follow an other one as well.
+
 3. Once you installed them I'll provide a short snippet which you can use to make the startup a bit easier. Because if you have a free account, on each restart the url you get - as your exposed address - will be different.  
+
     3.1 Since you'd need to start ngrok by typing `./ngrok http 8080`, it's easier to create a script which does the same, but you have to type less on that tiny keyboard.  
+    
     3.2 Open the nano editor (inside Termux) by typing `nano start.sh` (_start.sh_ will be the name of the script file).  
+    
     3.2 Enter your command to start your ngrok, e.g.: `./ngrok http -region eu 8080` to start your server in the eu region.  
+    
     3.3 `CTRL + X`, `y` and then `Enter` to save the file and exit. (Actually you try to exit without saving, so it asks if you want to save it, and whether the given name is good for you.)  
+    
     3.4 One more thing left, we need to make this script executable by typing `chmod +x start.sh`.  
+    
 
 
 I hope you like it!
