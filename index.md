@@ -3,12 +3,14 @@
 
 ### Projects:
 #### I'm currently working on:
- - [Advent of Code in Java](https://github.com/wildangerm/advent-of-code-2k18)
- - [Advent of Code in Kotlin](https://github.com/wildangerm/advent-of-code-2k18-kt)
  - Android, GoPro, stream, Twitch:
      - Still in early phase.
      - Core functionality working.
      - **Soon public on GitHub!**
+ 
+#### Paused, but will be continued:
+ - [Advent of Code in Java](https://github.com/wildangerm/advent-of-code-2k18)
+ - [Advent of Code in Kotlin](https://github.com/wildangerm/advent-of-code-2k18-kt)
  
 #### Planned project(s) (in keywords):
  - Spring-boot webapp, Java, MySQL, Thymeleaf, Google OAuth, minimal Vanilla JS
