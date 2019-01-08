@@ -10,9 +10,10 @@
      - Core functionality working.
      - **Soon public on GitHub!**
  
-#### Planned projects (in keywords):
+#### Planned project(s) (in keywords):
  - Spring-boot webapp, Java, MySQL, Thymeleaf, Google OAuth, minimal Vanilla JS
  
+### Tutorial(s): 
 #### Upcoming tutorial:
  - Voice controlled LED
  
