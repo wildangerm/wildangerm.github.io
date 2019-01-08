@@ -1,11 +1,12 @@
 ---
 layout: default
 comments: true
+# other options
 ---
 <p>{{ page.date | date: '%B %-d, %Y' }} - Written by {{ page.author }}</p>
 
 {{ content }}
 
-{% if page.comments == true %}
+{% if page.comments %}
 {% include disqus.html %}
 {% endif %}
