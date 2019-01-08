@@ -23,6 +23,7 @@ But when I managed to get my hands on an Alexa device, a new idea came to my min
    + [**ngrok**](https://ngrok.com/) account - to expose your local server securely.
    + Android **server** application (github link) - to run your localhost server, handling HTTP requests and controlling your LED strip.
    + [**Termux**](https://play.google.com/store/apps/details?id=com.termux) terminal emulator - to run ngrok on your phone.
+   + [Hacker's Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard&hl=en) - you'll need it to navigate in Termux. Or just use an external keyboard.
 
 
 
