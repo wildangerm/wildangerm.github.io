@@ -13,13 +13,16 @@ So I built a very simple application, that is capable of receiving requests, and
 But when I managed to get my hands on an Alexa device, a new idea came to my mind. What if I could control my LED strip _just_ by saying something to Alexa? This is how the idea was born.
 
 ## What you'll need:
- + **LED** strip (which is controllable via IR, I have one that's controllable via the 44 key remote)
- + Samsung **Galaxy S5** (or a phone that has an IR emitter, but may not work with the app)
- + Amazon **Alexa** device (doesn't matter which, I've used an Echo Dot)
- + **IFTTT** account - to handle special Alexa commands and make web requests.
- + **ngrok** account - to expose your local server securely.
- + Android **server** application (github link) - to run your localhost server, handling HTTP requests and controlling your LED strip.
- + **Termux** terminal emulator - to run ngrok on your phone.
+ + Hardware:
+   + **LED** strip (which is controllable via IR, I have one that's controllable via the 44 key remote)
+   + Samsung **Galaxy S5** (or a phone that has an IR emitter, but may not work with the app)
+   + Amazon **Alexa** device (doesn't matter which, I've used an Echo Dot)
+  
+ + Software: 
+   + **IFTTT** account - to handle special Alexa commands and make web requests.
+   + **ngrok** account - to expose your local server securely.
+   + Android **server** application (github link) - to run your localhost server, handling HTTP requests and controlling your LED strip.
+   + **Termux** terminal emulator - to run ngrok on your phone.
 
 
 
