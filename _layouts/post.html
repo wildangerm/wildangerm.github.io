@@ -6,4 +6,6 @@ comments: true
 
 {{ content }}
 
-{% include disqus.html %}
+{% if page.comments %}
+  {% include disqus.html %}
+{% endif %}
