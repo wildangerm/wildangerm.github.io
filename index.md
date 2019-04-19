@@ -3,14 +3,19 @@
 
 ### Projects:
 #### I'm currently working on:
- - Android, GoPro, stream, Twitch:
-     - Still in early phase.
-     - Core functionality working.
-     - **Soon public on GitHub!**
+ - Master's thesis:
+    - Car tracking
+    - Python 3.7
+    - OSMnx
+ - Homework for Java-based Web Frameworks
+ 
  
 #### Paused, but will be continued:
  - [Advent of Code in Java](https://github.com/wildangerm/advent-of-code-2k18)
  - [Advent of Code in Kotlin](https://github.com/wildangerm/advent-of-code-2k18-kt)
+ - Android, GoPro, stream, Twitch:
+     - Still in early phase.
+     - Core functionality working.
  
 #### Planned project(s) (in keywords):
  - Spring-boot webapp, Java, MySQL, Thymeleaf, Google OAuth, minimal Vanilla JS
