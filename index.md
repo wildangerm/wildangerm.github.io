@@ -1,5 +1,5 @@
 
-## Projects:
+## Projects
 #### I'm currently working on:
  - Master's thesis:
     - Car tracking
@@ -20,13 +20,13 @@
  
  ---
  
-## Tutorial(s): 
+## Tutorial(s) 
 #### Upcoming tutorial:
  - Voice controlled LED
  
  ---
 
-## Interests:
+## Interests
 I'm highly interested in the field of IT security, so I might do projects around it as well, but not sure what exactly yet.
 
 ---
