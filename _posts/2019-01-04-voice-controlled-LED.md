@@ -42,8 +42,41 @@ But when I managed to get my hands on an Alexa device, a new idea came to my min
     
     3.3 `CTRL + X`, `y` and then `Enter` to save the file and exit. (Actually you try to exit without saving, so it asks if you want to save it, and whether the given name is good for you.)  
     
-    3.4 One more thing left, we need to make this script executable by typing `chmod +x start.sh`.  
-    
+    3.4 One more thing left, we need to make this script executable by typing `chmod +x start.sh`. 
+
+    3.5 Now you can start ngrok by typing `./start.sh`.
+
+4. If you succeeded, you'll see a screen stating your session is online, and there will be 2 urls, that are the same, just the HTTP protocol changes. For example: `https://8d7232ca.eu.ngrok.io`.
+
+5. Now you'll need to install IFTTT on your phone from the Play Store.
+
+6. Log into your IFTTT account in the app, and go to the `My Applets` tab.
+
+    6.1 Create a new Applet by clicking on the `+` icon in the top right corner.
+
+    6.2 Set Alexa as the trigger (`this`). You might have to connect your Alexa to your IFTTT account along the way.
+
+    6.3 Choose: `Say a specific phrase`.
+
+    6.4 Set the phrase you want to say to trigger the action.
+
+    6.5 Set Webhooks as the action (`that`).
+
+    6.6 `Make a web request`.
+
+    6.7 Enter the earlier mentioned ngrok URL and append `/led` at the end. So it will look like this: `https://8d7232ca.eu.ngrok.io/led`
+
+    6.7 The *method* should stay `GET`.
+
+    6.8 Choose `application/json` as *Content Type*.
+
+    6.9 You can leave the *Body* empty.
+
+    6.10 Now you are finished with the IFTTT part.
+
+7. Now you need to download the server application I've written. This can be found here.
+
+8. Once you've installed my app, you just need to open it, and click the `Start service` button and you're ready to roll.
 
 
 I hope you like it!
