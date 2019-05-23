@@ -19,7 +19,7 @@ But when I managed to get my hands on an Alexa device, a new idea came to my min
    + Amazon **Alexa** device (doesn't matter which, I've used an Echo Dot)
   
  + Software: 
-   + [**IFTTT**](https://ifttt.com/) account - to handle special Alexa commands and make web requests.
+   + [**IFTTT**](https://ifttt.com/) account and [app](https://play.google.com/store/apps/details?id=com.ifttt.ifttt) - to handle special Alexa commands and make web requests.
    + [**ngrok**](https://ngrok.com/) account - to expose your local server securely.
    + Android **server** application (github link) - to run your localhost server, handling HTTP requests and controlling your LED strip.
    + [**Termux**](https://play.google.com/store/apps/details?id=com.termux) terminal emulator - to run ngrok on your phone.
