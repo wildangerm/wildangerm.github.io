@@ -48,7 +48,7 @@ But when I managed to get my hands on an Alexa device, a new idea came to my min
 
     3.5 Now you can start ngrok by typing `./start.sh`.
 
-4. If you succeeded, you'll see a screen stating your session is online, and there will be 2 urls, that are the same, just the HTTP protocol changes. For example: `https://8d7232ca.eu.ngrok.io`.
+4. If you succeeded, you'll see a screen stating your session is online, and there will be 2 URLs, that are the same, just the HTTP protocol changes. For example: `https://8d7232ca.eu.ngrok.io`.
 
 ### IFTTT
 
