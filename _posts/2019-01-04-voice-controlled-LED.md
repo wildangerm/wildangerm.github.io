@@ -42,7 +42,7 @@ But when I managed to get my hands on an Alexa device, a new idea came to my min
     
     3.2 Enter your command to start your ngrok, e.g.: `./ngrok http -region eu 8080` to start your server in the eu region.  
     
-    3.3 `CTRL + X`, `y` and then `Enter` to save the file and exit. (Actually you try to exit without saving, so it asks if you want to save it, and whether the given name is good for you.)  
+    3.3 `CTRL + X`, `y` and then `Enter` to save the file and exit. (Actually you're trying to exit without saving, so it asks if you want to save it, and whether the given name is good for you.)  
     
     3.4 One more thing left, we need to make this script executable by typing `chmod +x start.sh`. 
 
