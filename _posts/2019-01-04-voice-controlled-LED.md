@@ -85,4 +85,6 @@ But when I managed to get my hands on an Alexa device, a new idea came to my min
 8. Once you've installed my app, you just need to open it, and click the `Start service` button and you're ready to roll.
 
 
-I hope you like it!
+I hope it was interesting and useful for some of you.
+
+Thanks for reading and feel free to leave a comment down below!
