@@ -28,6 +28,8 @@ But when I managed to get my hands on an Alexa device, a new idea came to my min
 
 ## Setting up
 
+### Termux
+
 1. Install Termux on your phone from the Google Play Store link provided earlier.
 
 2. Install ngrok in Termux. I won't write a tutorial for this, since a number of them already exist, so I'll link the [first](https://steemit.com/utopian-io/@faisalamin/how-to-download-install-ngrok-in-android-termux-also-work-for-non-rooted-devices) written one I found, but you may follow an other one as well.
@@ -47,6 +49,8 @@ But when I managed to get my hands on an Alexa device, a new idea came to my min
     3.5 Now you can start ngrok by typing `./start.sh`.
 
 4. If you succeeded, you'll see a screen stating your session is online, and there will be 2 urls, that are the same, just the HTTP protocol changes. For example: `https://8d7232ca.eu.ngrok.io`.
+
+### IFTTT
 
 5. Now you'll need to install IFTTT on your phone from the Play Store.
 
@@ -73,6 +77,8 @@ But when I managed to get my hands on an Alexa device, a new idea came to my min
     6.9 You can leave the *Body* empty.
 
     6.10 Now you are finished with the IFTTT part.
+
+### Server application
 
 7. Now you need to download the server application I've written. This can be found here.
 
