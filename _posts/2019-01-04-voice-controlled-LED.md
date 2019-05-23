@@ -56,27 +56,27 @@ But when I managed to get my hands on an Alexa device, a new idea came to my min
 
 6. Log into your IFTTT account in the app, and go to the `My Applets` tab.
 
-    6.1 Create a new Applet by clicking on the `+` icon in the top right corner.
+    2.1 Create a new Applet by clicking on the `+` icon in the top right corner.
 
-    6.2 Set Alexa as the trigger (`this`). You might have to connect your Alexa to your IFTTT account along the way.
+    2.2 Set Alexa as the trigger (`this`). You might have to connect your Alexa to your IFTTT account along the way.
 
-    6.3 Choose: `Say a specific phrase`.
+    2.3 Choose: `Say a specific phrase`.
 
-    6.4 Set the phrase you want to say to trigger the action.
+    2.4 Set the phrase you want to say to trigger the action.
 
-    6.5 Set Webhooks as the action (`that`).
+    2.5 Set Webhooks as the action (`that`).
 
-    6.6 `Make a web request`.
+    2.6 `Make a web request`.
 
-    6.7 Enter the earlier mentioned ngrok URL and append `/led` at the end. So it will look like this: `https://8d7232ca.eu.ngrok.io/led`
+    2.7 Enter the earlier mentioned ngrok URL and append `/led` at the end. So it will look like this: `https://8d7232ca.eu.ngrok.io/led`
 
-    6.7 The *method* should stay `GET`.
+    2.7 The *method* should stay `GET`.
 
-    6.8 Choose `application/json` as *Content Type*.
+    2.8 Choose `application/json` as *Content Type*.
 
-    6.9 You can leave the *Body* empty.
+    2.9 You can leave the *Body* empty.
 
-    6.10 Now you are finished with the IFTTT part.
+    2.10 Now you are finished with the IFTTT part.
 
 ### Server application
 
