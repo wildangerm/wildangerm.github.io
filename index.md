@@ -46,6 +46,15 @@
  
 
 ---
+## Security related challenge / event participations for fun (CTF)
+
+ - CrySyS Security Challenge 2021
+ - CrySyS Security Challenge 2019
+ - IThon challenge 2019
+ - Hungarian Cyber Security Challenge 2019
+
+
+---
 
 ## Other
 #### (<img style="vertical-align:-40%" src="images/1280px-LaTeX_logo.svg.png" alt="drawing" height="25"/>) stylings:
