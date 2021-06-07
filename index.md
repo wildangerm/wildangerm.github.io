@@ -1,11 +1,6 @@
 
 ## Projects
 #### I'm currently working on:
- - Master's thesis:
-    - Car tracking
-    - Python 3.7
-    - OSMnx
- - Homework for Java-based Web Frameworks
  
  
 #### Paused, but will be continued:
@@ -18,6 +13,16 @@
 #### Planned project(s) (in keywords):
  - Spring-boot webapp, Java, MySQL, Thymeleaf, Google OAuth, minimal Vanilla JS
  
+
+#### Past projects
+- Homework for Java-based Web Frameworks
+   - Simple education system webapp
+   - Java
+   - Spring boot (MVC)
+   - Thymeleaf
+   - JPA
+   - MySQL
+
  ---
  
 ## Tutorial(s) 
