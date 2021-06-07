@@ -1,17 +1,17 @@
 
 ## Projects
-#### I'm currently working on:
+<!-- #### I'm currently working on: -->
  
  
 #### Paused, but will be continued:
  - [Advent of Code in Java](https://github.com/wildangerm/advent-of-code-2k18)
  - [Advent of Code in Kotlin](https://github.com/wildangerm/advent-of-code-2k18-kt)
- - Android, GoPro, stream, Twitch:
-     - Still in early phase.
-     - Core functionality working.
+ - Twitch, search, clips, Java, Spring boot
+ - Advent of Code in Kotlin 2020
+
  
-#### Planned project(s) (in keywords):
- - Spring-boot webapp, Java, MySQL, Thymeleaf, Google OAuth, minimal Vanilla JS
+<!-- #### Planned project(s) (in keywords):
+ - Spring-boot webapp, Java, MySQL, Thymeleaf, Google OAuth, minimal Vanilla JS -->
  
 
 #### Past projects
@@ -23,11 +23,26 @@
    - JPA
    - MySQL
 
+- Pair homework in Java
+   - Wedding organizer
+   - Java
+   - Spring boot
+   - JPA
+   - MySQL
+   - Google OAuth
+   - Thymeleaf
+   - jQuery
+
+- Wireless GoPro streaming:   
+   - Wirelessly streaming GoPro's live feed ot Twitch using just a(n Android) smartphone with a data plan.
+   - Core functionality working, but it became obsolete (with GoPro's own solution). But was still an interesting and fun project nonetheless.
+
  ---
  
 ## Tutorial(s) 
 #### Upcoming tutorial:
  - Voice controlled LED
+   - Using an old Android smartphone with IR blaster and a series of services with a custom app.
  
 
 ---
