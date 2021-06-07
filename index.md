@@ -24,10 +24,6 @@
 #### Upcoming tutorial:
  - Voice controlled LED
  
- ---
-
-## Interests
-I'm highly interested in the field of IT security, so I might do projects around it as well, but not sure what exactly yet.
 
 ---
 
