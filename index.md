@@ -1,7 +1,7 @@
 
 ## Projects
 #### I'm currently working on:
-  - [Clipsearch.pro](clipsearch.pro?referer=github.io) - A search tool for Twitch clips with React, Kotlin and Spring Boot, and MySQL
+  - [Clipsearch.pro](https://clipsearch.pro?referer=github.io) - A search tool for Twitch clips with React, Kotlin and Spring Boot, and MySQL
     - using CI/CD pipelines
     - runs on docker (compose)
     - exploring the Elastic stack (Elasticsearch, Filebeat, Kibana) with it
