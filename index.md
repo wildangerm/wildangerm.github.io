@@ -4,7 +4,8 @@
   - [Clipsearch.pro](clipsearch.pro?referer=github.io) - A search tool for Twitch clips with React, Kotlin and Spring Boot, and MySQL
     - using CI/CD pipelines
     - runs on docker (compose)
-    - and I'm exploring the Elastic stack (Elasticsearch, Filebeat, Kibana) with it.
+    - exploring the Elastic stack (Elasticsearch, Filebeat, Kibana) with it
+    - exploring Svelte(kit) for a different approach
  
 #### Paused, but will be continued:
  - [Advent of Code in Java](https://github.com/wildangerm/advent-of-code-2k18)
