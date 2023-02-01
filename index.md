@@ -1,12 +1,14 @@
 
 ## Projects
-<!-- #### I'm currently working on: -->
- 
+#### I'm currently working on:
+  - [Clipsearch.pro](clipsearch.pro?referer=github.io) - A search tool for Twitch clips with React, Kotlin and Spring Boot, and MySQL
+    - using CI/CD pipelines
+    - runs on docker (compose)
+    - and I'm exploring the Elastic stack (Elasticsearch, Filebeat, Kibana) with it.
  
 #### Paused, but will be continued:
  - [Advent of Code in Java](https://github.com/wildangerm/advent-of-code-2k18)
  - [Advent of Code in Kotlin](https://github.com/wildangerm/advent-of-code-2k18-kt)
- - Twitch, search, clips, Java, Spring boot
  - Advent of Code in Kotlin 2020
 
  
